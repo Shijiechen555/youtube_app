@@ -2,11 +2,13 @@
     display: flex !important;
     align-items:center !important;
     cursor: pointer;
+
     /* The cursor property allow you to be able to change you mouse to a 
     pointer when you point your mouse on the element, so people think that they
     are able to click it */
 }
 
-.video-item img{
+.video-item .ui{
     max-width: 180px;
+    max-height: 200px;
 }
